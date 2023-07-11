@@ -1,0 +1,265 @@
+.container-btn{
+    margin: auto;
+    place-items: center !important;
+    padding: 5px;
+    font-display: none !important;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    color: #333;
+    font-size: 14px !important;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+    background-color: #eee;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+
+.container-btn:hover{
+    background-color: #ccc;
+    color: #333;
+}
+
+.text-container{
+    size: 35px;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.btn-container{
+    margin: auto;
+    padding: 6px;
+    justify-content: center;
+    align-items: center;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    color: blue !important;
+    font-size: 30px;
+    font-weight: bold !important;
+    
+}
+
+.btn{
+    margin: auto;
+    size: auto;
+    height: 30px;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    border-left-color: red;
+    border-right-color: red;
+    border-top-color: red;
+    border-bottom-color: red;
+    color: aliceblue;
+    background-color: red;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.btn2{
+    margin: auto;
+    padding: 3px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-left-color:blue;
+    border-right-color: blue;
+    border-top-color: blue;
+    border-bottom-color: blue;
+    background-color: blue;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}
+
+.btn3{
+    margin: auto;
+    padding: 3px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-left-color: aqua;
+    border-right-color: aqua;
+    border-top-color: aqua;
+    border-bottom-color: aqua;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: white  !important; 
+    background-color: aqua;
+}
+
+.btn4{
+    margin: auto;
+    height: 30px;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    border-left-color: aliceblue;
+    border-right-color: aliceblue;
+    border-top-color: aliceblue;
+    border-bottom-color: aliceblue;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: rgb(14, 5, 14) !important;
+    background-color: aliceblue;
+    border-top-color: aliceblue;
+    border-bottom-color: aliceblue;
+    outline: none;
+    border-radius: 5px;
+}
+
+.btn5{
+    margin: auto;
+    padding: 3px;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    border-left-color: green;
+    border-right-color: yellowgreen;
+    border-top-color: green;
+    border-bottom-color: greenyellow;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+    color: white!important;
+    background-color: green;
+}
+
+.btn6{
+  margin: auto !important;
+  padding: 0% !important;
+  color: white;
+  border-top-color: #256d85;
+  border-bottom-color: #256d85;
+  border-left-color: #256d85;
+  border-right-color: #256d85;
+  border-radius: 5px;
+  outline: none;
+  border-radius: 5px;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  text-decoration: none;
+  text-transform: none;
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+  size: 30px;
+  background-color: black;
+
+}
+
+.btn-container2{
+    margin-top: 15px;
+    background: fixed transparent;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    border-left-color:blue;
+    border-right-color:blue;
+    border-top-color:blue;
+    border-bottom-color:blue;
+    outline: none;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+body{
+    background-color: #eee;
+    justify-content: center;
+    place-items: center;
+    align-items: center;
+    max-width: 1000px;
+    height: auto !important;
+    margin: auto;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #333;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Style the links inside the sidenav */
+#mySidenav a {
+    position: absolute; /* Position them relative to the browser window */
+    left: -80px; /* Position them outside of the screen */
+    transition: 0.3s; /* Add transition on hover */
+    padding: 15px; /* 15px padding */
+    width: 100px; /* Set a specific width */
+    text-decoration: none; /* Remove underline */
+    font-size: 20px; /* Increase font size */
+    color: white; /* White text color */
+    border-radius: 0 5px 5px 0; /* Rounded corners on the top right and bottom right side */
+  }
+  
+  #mySidenav a:hover {
+    left: 0; /* On mouse-over, make the elements appear as they should */
+  }
+  
+  /* The about link: 20px from the top with a green background */
+  #about {
+    top: 20px;
+    background-color: #04AA6D;
+  }
+  
+  #blog {
+    top: 80px;
+    background-color: #2196F3; /* Blue */
+  }
+  
+  #projects {
+    top: 140px;
+    background-color: #f44336; /* Red */
+  }
+  
+  #contact {
+    top: 200px;
+    background-color: #555 /* Light Black */
+  }
